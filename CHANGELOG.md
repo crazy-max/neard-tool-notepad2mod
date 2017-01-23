@@ -1,7 +1,5 @@
 # Changelog
 
-### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/toolNotepad2-mod#latest) before downloading.
-
 ## r3 (2016/10/11)
 
 * New bundle : 4.2.25.985
