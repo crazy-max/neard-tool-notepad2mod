@@ -1,3 +1,6 @@
+> ⚠️ **Notepad2-mod has been removed since [Neard 1.3](http://neard.io/release/1.3) !**<br />
+> **See [issue #314](https://github.com/crazy-max/neard/issues/314) for more info.**
+
 [![GitHub release](https://img.shields.io/github/release/crazy-max/neard-tool-notepad2mod.svg?style=flat-square)](https://github.com/crazy-max/neard-tool-notepad2mod/releases/latest)
 ![Total downloads](https://img.shields.io/github/downloads/crazy-max/neard-tool-notepad2mod/total.svg?style=flat-square)
 
